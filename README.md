@@ -1,1 +1,1 @@
-# tindog-jaydip-bose
+#TinDog/JaydipBose
